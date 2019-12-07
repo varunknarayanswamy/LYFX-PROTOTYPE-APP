@@ -1,0 +1,11 @@
+framework module LifxDomain {
+  umbrella header "LifxDomain.h"
+
+  export *
+  module * { export * }
+}
+
+module LifxDomain.Swift {
+    header "LifxDomain-Swift.h"
+    requires objc
+}

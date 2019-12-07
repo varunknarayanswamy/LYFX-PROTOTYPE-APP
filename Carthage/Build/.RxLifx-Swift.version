@@ -1,0 +1,29 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "d0e777e29842289a3cd534a09b8f0a4704b29d8c",
+  "iOS" : [
+    {
+      "name" : "RxLifx",
+      "hash" : "b308156e79eca0b77fcfb238ed2d32241ec0cd5c7b36afe1df8833313fc32cd8",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    },
+    {
+      "name" : "LifxDomain",
+      "hash" : "c8cb4f1c5a8c0fdb4c4068bcba467b85fb5c689ba50a6882b78f57dc41072181",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    },
+    {
+      "name" : "RxLifxApi",
+      "hash" : "f2d30a905555a136ee814bf94c3ffe14266c3b1f2dc02a2153bfe0639698991f",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}

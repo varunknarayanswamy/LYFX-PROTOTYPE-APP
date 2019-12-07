@@ -1,0 +1,3 @@
+github "ReactiveX/RxSwift" "3.0.0.alpha.1"
+github "flowsprenger/RxLifx-Swift" "c05c15422c94ac417a05c6f86bad11ff2c30b794"
+github "tatey/LIFXHTTPKit" "3.0.0"

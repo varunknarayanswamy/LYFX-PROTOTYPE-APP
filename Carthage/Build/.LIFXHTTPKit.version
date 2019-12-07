@@ -1,0 +1,10 @@
+{
+  "commitish" : "3.0.0",
+  "iOS" : [
+    {
+      "name" : "LIFXHTTPKit",
+      "hash" : "1ba097273370911ca6021315318b30282bb232270b46ae64aaa489642920bd98",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}

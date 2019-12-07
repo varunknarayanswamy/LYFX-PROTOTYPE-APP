@@ -1,0 +1,5 @@
+github "tatey/LIFXHTTPKit"
+github "flowsprenger/RxLifx-Swift" "c05c154"
+github "ReactiveX/RxSwift" == 5.0
+
+

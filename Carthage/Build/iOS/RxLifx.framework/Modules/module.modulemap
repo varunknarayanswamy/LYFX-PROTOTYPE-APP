@@ -1,0 +1,11 @@
+framework module RxLifx {
+  umbrella header "RxLifx.h"
+
+  export *
+  module * { export * }
+}
+
+module RxLifx.Swift {
+    header "RxLifx-Swift.h"
+    requires objc
+}
